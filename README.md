@@ -2,7 +2,6 @@
 import urllib.request
 import urllib
 import re
-#import _thread
 import threading
 import time
 
